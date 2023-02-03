@@ -55,34 +55,7 @@ customer         | customer_id
 
 Вопрос: Можно ли получить всю информацию через sql запрос
 
-|Название таблицы	| Название первичного ключа	|
-|_______________________|_______________________________|
-|actor			|	actor_id		|
-|actor_info		|				|
-|address		|	address_id		|
-|category		|	category_id		|
-|city			|	city_id			|
-|country		|	country_id		|
-|customer		|	customer_id		|
-|customer_list		|				|
-|film			|	film_id			|
-|film_actor		|	film_actor,film_id	|
-|film_category		|	film_id,category_id	|
-|film_list		|				|
-|film_text		|	film_id			|
-|inventory		|	inventory_id		|
-|language		|	language_id		|
-|nicer_but_slower_film_ |				|
-|list			|				|
-|			|				|
-|payment		|	payment_id		|
-|rental			|	rental_id		|
-|sales_by_film_category	|				|
-|sales_by_store		|				|
-|staff			|	staff_id		|
-|staff_list		|				|
-|store   		|	store_id		|
-|_______________________|_______________________________|
+![](./img/table.png)		
 
 
 ## Дополнительные задания (со звёздочкой*)
